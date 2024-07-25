@@ -1,21 +1,25 @@
-Excited to Share My Pizza Sales Analysis Project! 🍕📊
+# Pizza Sales SQL Project
 
-I recently completed a project analyzing pizza sales data to uncover valuable insights using SQL. This analysis helped identify sales trends, customer preferences, and operational efficiencies.
+## Description
 
-Project Highlights:
-Data Cleaning & Preparation: Ensured high data quality.
-Exploratory Data Analysis: Used advanced SQL techniques to extract insights.
-Visualization: Created clear visualizations with Power BI.
-Impact:
-This project provides actionable insights for improving sales strategies and optimizing inventory management.
+This project involves the analysis of pizza sales data to gain insights into sales performance and pricing strategies. It includes SQL scripts that help in understanding different metrics related to pizza sales, such as the most popular pizza types, pricing trends, and overall sales performance.
 
-Skills & Tools:
-Technical Skills: SQL, Data Analysis, Data Visualization.
-Tools: MySQL, Excel, Power BI.
-Special Thanks:
-Grateful for the guidance and support from mentors and peers.
+## Project Structure
 
-GitHub Repository with Detailed README
+- **`data/`**: Contains sample data files for pizza sales.
+- **`queries/`**: Includes SQL scripts for querying and analyzing the pizza sales data.
+- **`docs/`**: Documentation and additional notes.
 
-#DataAnalysis #SQL #PizzaSales #PowerBI #MySQL #ProjectShowcase
+## Getting Started
 
+### Prerequisites
+
+- SQL Database (e.g., MySQL, PostgreSQL)
+- SQL client or integrated development environment (IDE) such as MySQL Workbench or pgAdmin
+
+### Setup
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/SHAKTISINGH2/SQL-project-on-pizza-sales.git
